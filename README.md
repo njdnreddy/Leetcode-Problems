@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
