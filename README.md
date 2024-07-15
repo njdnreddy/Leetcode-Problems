@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
