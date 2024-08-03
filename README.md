@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
