@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
