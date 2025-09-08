@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0415-add-strings) |
+| [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Quickselect
 |  |
 | ------- |
