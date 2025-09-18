@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1397-search-suggestions-system](https://github.com/njdnreddy/Leetcode-Problems/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/njdnreddy/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
